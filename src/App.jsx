@@ -1133,7 +1133,7 @@ export default function App() {
               <div>
                 <div className="text-base font-semibold text-white/95">What I’m looking for</div>
                 <div className="mt-1 text-sm text-white/60">
-                  Summer 2026 internships/co-ops in security engineering, platform engineering, or
+                  Summer 2026 internships/co-ops in software development, security engineering, platform engineering, and
                   AI tooling.
                 </div>
                 <div className="mt-4 flex flex-wrap gap-2">
