@@ -46,7 +46,7 @@ const SECTIONS = [
 
 const PROFILE = {
   name: "Ishaa Jain",
-  title: "Software Engineer • Security + AI",
+  title: "Software • Security • AI",
   location: "Cincinnati, OH",
   email: "jainid@mail.uc.edu",
   links: {
