@@ -52,7 +52,7 @@ const PROFILE = {
   links: {
     github: "https://github.com/ij5204",
     linkedin: "https://www.linkedin.com/in/ishitaajain1/",
-    resume: "/Ishitaa_Jain_Resume.pdf",
+    resume: "/Ishitaa_Jain_Resume_jainid.pdf",
   },
   quick: [
     { icon: Shield, label: "Security", value: "OSQuery • Detection Engineering" },
